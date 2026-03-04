@@ -28,7 +28,8 @@ A web application replacing manual Excel processes for youth league scheduling.
 Live event app for university career fairs.
 * **Tech:** React, JavaScript.
 * **Features:** Real-time chat, dashboards, and search filtering for students and companies.
-* <img width="1861" height="889" alt="image" src="https://github.com/user-attachments/assets/8772f368-ee37-49e4-932e-bd0ba5f75578" />
-* <img width="1861" height="889" alt="image" src="https://github.com/user-attachments/assets/88cfffe9-0597-468c-b68d-507aa60c653b" />
+<img width="1861" height="889" alt="image" src="https://github.com/user-attachments/assets/88cfffe9-0597-468c-b68d-507aa60c653b" />
+<img width="1861" height="889" alt="image" src="https://github.com/user-attachments/assets/8772f368-ee37-49e4-932e-bd0ba5f75578" />
+
 
 
